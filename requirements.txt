@@ -1,0 +1,11 @@
+Flask
+Flask-Login
+dash
+dash-bootstrap-components
+authlib
+gunicorn
+gspread
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+pandas
